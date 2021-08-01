@@ -1,0 +1,9 @@
+body{
+        text-align: center;
+}
+input{
+        font-size: 20px;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        font-weight: bold;
+        cursor: pointer;
+}
